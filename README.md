@@ -1,5 +1,6 @@
-# 👋 Welcome to My GitHub Profile! 👋
-## 🌈🚀 Egor Chetverikov 🌈🚀
+<h1 align="center">👋 Welcome to My GitHub Profile! 👋</h1>
+<h2 align="center">🌈🚀 Egor Chetverikov 🌈🚀</h2>
+
 
 ---
 
