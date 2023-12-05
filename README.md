@@ -2,7 +2,7 @@
 <h2 align="center">🌈🚀 Egor Chetverikov 🌈🚀</h2>
 
 
-
+---
 
 ### 🌟 About Me
 👤 I'm Egor Chetverikov, an enthusiastic 🌐 Full Stack and 🐍 Python Developer, transitioning from a robust career in Account Management within the 🛒 FMCG and 📢 Ad-Tech industries in Russia and the United Kingdom. Over 5️⃣ years, I've honed my skills in client relationship management and business development, consistently exceeding sales targets and nurturing long-term partnerships.
