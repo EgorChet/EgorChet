@@ -62,11 +62,11 @@
 ---
 
 ### 📬 Let's Connect!
-- 🌐 **LinkedIn:** [egorchet](https://linkedin.com/in/egorchet) 🌐
-- 💻 **GitHub:** [egorchet](https://github.com/egorchet) 💻
-- 🐦 **Twitter:** [ChetverikovEgor](https://twitter.com/ChetverikovEgor) 🐦
-- 📸 **Instagram:** [egorchetverikov](https://www.instagram.com/egorchetverikov/) 📸
-- 👥 **Facebook:** [egor.chetverikov](https://www.facebook.com/egor.chetverikov/) 👥
+- 🌐 **LinkedIn:** [egorchet](https://linkedin.com/in/egorchet) 
+- 💻 **GitHub:** [egorchet](https://github.com/egorchet) 
+- 🐦 **Twitter:** [ChetverikovEgor](https://twitter.com/ChetverikovEgor) 
+- 📸 **Instagram:** [egorchetverikov](https://www.instagram.com/egorchetverikov/) 
+- 👥 **Facebook:** [egor.chetverikov](https://www.facebook.com/egor.chetverikov/) 
 
 🤝 I'm always open to collaborating on projects and innovative ideas. Don't hesitate to reach out if you're interested in working together or just want to chat!
 
