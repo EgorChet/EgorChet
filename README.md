@@ -11,11 +11,12 @@
 ---
 
 ### 💻 Technical Skills
-- **Languages & Frameworks:** Python, JavaScript, React, Node.js, Django
-- **Web Development:** HTML, CSS
-- **Database Management:** SQL, MongoDB, PostgreSQL
-- **Data Visualization:** Tableau, Seaborn, Plotly
-- **Tools:** Git, GitHub, Jupyter Notebook, VSCode
+- **Languages & Frameworks:** 🐍 Python, ☕ JavaScript, ⚛️ React, 🟢 Node.js, 🏗️ Django
+- **Web Development:** 🌐 HTML, 🎨 CSS
+- **Database Management:** 🗃️ SQL, 🍃 MongoDB, 🐘 PostgreSQL
+- **Data Visualization:** 📊 Tableau, 📈 Seaborn, 📉 Plotly
+- **Tools:** 🔧 Git, 🐙 GitHub, 📓 Jupyter Notebook, 🖥️ VSCode
+
 
 ---
 
