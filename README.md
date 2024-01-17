@@ -64,12 +64,23 @@
 
 ### 📬 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/egorchet"><img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://github.com/egorchet"><img src="https://img.shields.io/badge/GitHub--black?style=social&logo=github" alt="GitHub"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ChetverikovEgor"><img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter" alt="Twitter"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/egorchetverikov/"><img src="https://img.shields.io/badge/Instagram--pink?style=social&logo=instagram" alt="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/egor.chetverikov/"><img src="https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook" alt="Facebook"></a>
+  <a href="https://linkedin.com/in/egorchet" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn" style="height: 30px;">
+  </a>
+  <a href="https://github.com/egorchet" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub--black?style=social&logo=github" alt="GitHub" style="height: 30px;">
+  </a>
+  <a href="https://twitter.com/ChetverikovEgor" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter" alt="Twitter" style="height: 30px;">
+  </a>
+  <a href="https://www.instagram.com/egorchetverikov/" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram--pink?style=social&logo=instagram" alt="Instagram" style="height: 30px;">
+  </a>
+  <a href="https://www.facebook.com/egor.chetverikov/">
+    <img src="https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook" alt="Facebook" style="height: 30px;">
+  </a>
 </p>
+
 
 
 🤝 I'm always open to collaborating on projects and innovative ideas. Don't hesitate to reach out if you're interested in working together or just want to chat!
