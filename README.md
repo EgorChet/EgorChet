@@ -64,16 +64,16 @@
 
 ### 📬 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/egorchet" style="margin-right: 30px;">
+  <a href="https://linkedin.com/in/egorchet" style="margin-right: 100px;">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn" style="height: 30px;">
   </a>
-  <a href="https://github.com/egorchet" style="margin-right: 30px;">
+  <a href="https://github.com/egorchet" style="margin-right: 100px;">
     <img src="https://img.shields.io/badge/GitHub--black?style=social&logo=github" alt="GitHub" style="height: 30px;">
   </a>
-  <a href="https://twitter.com/ChetverikovEgor" style="margin-right: 30px;">
+  <a href="https://twitter.com/ChetverikovEgor" style="margin-right: 100px;">
     <img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter" alt="Twitter" style="height: 30px;">
   </a>
-  <a href="https://www.instagram.com/egorchetverikov/" style="margin-right: 30px;">
+  <a href="https://www.instagram.com/egorchetverikov/" style="margin-right: 100px;">
     <img src="https://img.shields.io/badge/Instagram--pink?style=social&logo=instagram" alt="Instagram" style="height: 30px;">
   </a>
   <a href="https://www.facebook.com/egor.chetverikov/">
