@@ -63,7 +63,7 @@
 ---
 
 ### 📬 Let's Connect!
-- 🌐 **LinkedIn:** [egorchet](https://linkedin.com/in/egorchet) 
+- 🌐 **LinkedIn:** [**LinkedIn:**](https://linkedin.com/in/egorchet) 
 - 💻 **GitHub:** [egorchet](https://github.com/egorchet) 
 - 🐦 **Twitter:** [ChetverikovEgor](https://twitter.com/ChetverikovEgor) 
 - 📸 **Instagram:** [egorchetverikov](https://www.instagram.com/egorchetverikov/) 
