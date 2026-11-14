@@ -1,64 +1,55 @@
-<h1 align="center">👋 Welcome to My GitHub Profile! 👋</h1>
-<h2 align="center">🌈🚀 Egor Chetverikov 🌈🚀</h2>
-
+<h1 align="center">👋 Hi, I'm Egor Chetverikov</h1>
+<h3 align="center">Full-stack developer · travel-tech · based in Netanya, Israel 🇮🇱</h3>
 
 ---
 
 ### 🌟 About Me
-👤 I'm Egor Chetverikov, an enthusiastic 🌐 Full Stack and 🐍 Python Developer, transitioning from a robust career in Account Management within the 🛒 FMCG and 📢 Ad-Tech industries in Russia and the United Kingdom. Over 5️⃣ years, I've honed my skills in client relationship management and business development, consistently exceeding sales targets and nurturing long-term partnerships.
-
-🔍 Currently, I am diving deep into the tech industry, enhancing my technical expertise through a rigorous Full Stack Coding Bootcamp and a Python Programming & Data Analysis Course.
+I'm a full-stack developer working on a travel booking platform. I came into software from a business background (account management and e-commerce in the UK and Russia) and retrained through a full-stack bootcamp and a Python and data analysis course. That background still shapes how I work: I care about the product, the numbers behind it, and about verifying things with real data instead of assuming.
 
 ---
 
-### 💻 Technical Skills
-- **Languages & Frameworks:** 🐍 Python, ☕ JavaScript, ⚛️ React, 🟢 Node.js, 🏗️ Django
-- **Web Development:** 🌐 HTML, 🎨 CSS
-- **Database Management:** 🗃️ SQL, 🍃 MongoDB, 🐘 PostgreSQL
-- **Data Visualization:** 📊 Tableau, 📈 Seaborn, 📉 Plotly
-- **Tools:** 🔧 Git, 🐙 GitHub, 📓 Jupyter Notebook, 🖥️ VSCode
+### 💼 What I do at work
+I work at **TravelFactory Lab** (Raanana, Israel), a travel-tech company that builds booking systems for trains, flights, ski packages and other transport and leisure products. I joined in April 2024 and now work across the stack on both customer-facing and internal systems.
 
+- **Booking flows:** UI and AWS Lambda back ends for searching, pricing and booking travel.
+- **Pricing correctness:** validating train and ski-pass prices end to end, including online and offline price paths, and diagnosing cases where the price grid or product type is wrong.
+- **Integrations:** rail, flights and external orders, payments (Adyen), promo codes and trip synchronisation between systems.
+- **Back office and finance tooling:** internal admin and finance interfaces used by operations teams.
+- **Production support:** reading logs, reproducing issues with real request parameters, writing API and Playwright tests, and monitoring with Datadog.
+
+---
+
+### 🏠 What I build for myself
+**Household finance app** – a private web app for my family's budget. It imports bank card statements (Excel exports in Hebrew), translates and categorises merchants, and compares planned and actual spending per billing cycle. Stack: Vue 3, Node.js/Express, a Python analyzer (FastAPI), Supabase, deployed on Render and GitHub Pages. Code: [EgorChet/Finance](https://github.com/EgorChet/Finance).
+
+**Private family AI assistant** – an ongoing project: a Telegram assistant powered by Claude Code, with separate private memory for each person and a shared space for the household. It will read the finance app only through its API (read-only first, then changes with explicit confirmation). The repo is private because it holds personal notes.
+
+Also: tennis, running, road trips and a general interest in AI tooling and automation.
+
+---
+
+### 🧰 Tech
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Front end:** Vue 3, React, HTML, CSS
+- **Back end and cloud:** Node.js, AWS Lambda, API Gateway, S3, SQS, Cognito, CodeBuild, WAF
+- **Data:** PostgreSQL, OpenSearch, Supabase
+- **Quality and operations:** Playwright, Datadog, GitHub Actions, Jira
+- **Tools:** Git, GitHub, Cursor, Claude Code
 
 ---
 
 ### 📚 Education
-- 🎓 **Full Stack Developer** (12-week, 440-hour Full Stack Coding Bootcamp)  
-  _Developers.Institute, Tel Aviv District, Israel_  
-  Oct 2023 - Present
-
-- 🎓 **Python Developer/ Data Analyst**  
-  _Yandex Practicum, Tel Aviv District, Israel (Remote)_  
-  Sep 2023 - Present
-
-- 🎓 **BSc (Hons) Business Studies & Management**  
-  _City, University of London_  
-  Sep 2016 - Jul 2019  
-  Grade: Class II Upper Division
+- **Full Stack Developer**, Developers.Institute, Tel Aviv (2023–2024)
+- **Python Developer / Data Analyst**, Yandex Practicum (2023)
+- **BSc (Hons) Business Studies & Management**, City, University of London (2016–2019)
 
 ---
 
-### 🚀 Projects
-💼 My GitHub is a showcase of my journey into software development, featuring various hands-on projects that apply real-world applications of my growing skills. Feel free to explore my repositories!
-
----
-
-### 👥 Professional Experience
-- 🛒 **Ecommerce Project Manager**  
-  _North-East Company, Moscow, Russia_  
-  Jun 2021 - May 2023
-
-- 📈 **Customer & Channel Marketing Manager**  
-  _Procter & Gamble, Moscow, Russian Federation_  
-  Jul 2019 - Jul 2020
-
-- 🌟 **Account Manager**  
-  _BubbleAd, London, United Kingdom_  
-  Dec 2017 - May 2019
-
----
-
-### ✨ Interests
-🚀 I am passionate about technology and its potential to drive innovation. In my journey into software development, I am eager to apply my analytical and problem-solving skills, honed in my previous roles, to the realm of technology.
+### 👥 Experience
+- **Full-stack Developer**, TravelFactory Lab, Raanana (Apr 2024 – present)
+- **E-commerce Project Manager**, North-East Company, Moscow (2021–2023)
+- **Customer & Channel Marketing Manager**, Procter & Gamble, Moscow (2019–2020)
+- **Account Manager**, BubbleAd, London (2017–2019)
 
 ---
 
@@ -80,13 +71,3 @@
     <img src="https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook" alt="Facebook" style="height: 30px;">
   </a>
 </p>
-
-
-
-🤝 I'm always open to collaborating on projects and innovative ideas. Don't hesitate to reach out if you're interested in working together or just want to chat!
-
-
-<!---
-EgorChet/EgorChet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
